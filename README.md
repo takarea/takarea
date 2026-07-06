@@ -2,6 +2,11 @@
 
 I can't programming
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takarea&theme=default)
+
+<!---
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takarea&theme=default)
+--->
 <!--
 **takarea/takarea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
