@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 I can't programming
-
+<!---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takarea&theme=default)
-
+--->
 <!---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takarea&theme=default)
 --->
