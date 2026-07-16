@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 I can't programming
+
+My repository is located here.
+
+[takarea-server.net](https://github.com/takarea-server)
 <!---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takarea&theme=default)
 --->
